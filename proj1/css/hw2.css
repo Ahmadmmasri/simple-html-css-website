@@ -1,0 +1,99 @@
+
+body{
+  height: 50vh;
+  width: 210vh;
+}
+
+header {
+  background-image: url("football.jpg");
+  height: 150px;
+  background-color: #ffffff;
+    }
+    
+    h1 {
+      text-align: center;
+    }
+    
+    h2 {
+      color: rgb(8, 8, 10);
+    }
+    
+    section {
+      display: inline-flexbox;
+      width: 900px;
+      margin-left: 10px;
+      background-color: #ffffff;
+      float: left;
+    }
+    
+    img {
+      width: 130px;
+      height: 85px;
+      background-color: darkkhaki;
+      display: inline-block;
+      margin-top: 30px;
+      margin-left: 15px;
+      border: 2px solid black;
+    
+    }
+    
+    a {
+      color:#ffffff;
+    }
+  
+    nav a {
+      display: inline-block;
+      width: 12%;
+      height: 40px;
+      margin-left: 200px;
+      color: #000000;
+      background: rgb(255, 255, 255,0.73);
+      text-align: center;
+      padding-top: 23px;
+      border-radius: 7%;
+      padding-left: 1px;
+      text-decoration: none;
+    }
+   
+    aside {
+      width: 160px;
+      height: 500px;
+      display: block;
+      background: rgb(158, 168, 63);
+      float: left;
+    }
+
+    .detail {
+        display: inline-block;
+        margin-left:140px ;
+      }
+
+    .right ul{
+          color:#000000;
+          list-style-type: none;
+          font-weight: bold;
+          display: inline-block;
+          
+      }
+
+    #detail{
+        display: inline-block;
+        margin-left:140px ;
+      }
+
+
+    
+
+      
+
+    
+
+      
+      
+    
+  
+  
+    
+  
+     
+  
